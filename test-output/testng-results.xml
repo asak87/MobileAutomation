@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-16T18:05:13 GST" name="Calculator Suite" finished-at="2024-11-16T18:05:52 GST" duration-ms="38424">
+    <groups>
+    </groups>
+    <test started-at="2024-11-16T18:05:13 GST" name="Calculator Test" finished-at="2024-11-16T18:05:52 GST" duration-ms="38424">
+      <class name="Tests.verifyMathematicalOperations">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:04 GST" name="setUp" finished-at="2024-11-16T18:05:13 GST" duration-ms="9385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="launchAPP()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:14 GST" name="launchAPP" finished-at="2024-11-16T18:05:14 GST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAPP -->
+        <test-method signature="testAddition()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:14 GST" name="testAddition" finished-at="2024-11-16T18:05:24 GST" duration-ms="9990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddition -->
+        <test-method is-config="true" signature="resetApp()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:24 GST" name="resetApp" finished-at="2024-11-16T18:05:25 GST" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetApp -->
+        <test-method is-config="true" signature="launchAPP()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:25 GST" name="launchAPP" finished-at="2024-11-16T18:05:25 GST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAPP -->
+        <test-method signature="testDivision()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:25 GST" name="testDivision" finished-at="2024-11-16T18:05:33 GST" duration-ms="7540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivision -->
+        <test-method is-config="true" signature="resetApp()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:33 GST" name="resetApp" finished-at="2024-11-16T18:05:33 GST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetApp -->
+        <test-method is-config="true" signature="launchAPP()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:33 GST" name="launchAPP" finished-at="2024-11-16T18:05:34 GST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAPP -->
+        <test-method signature="testMultiply()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:34 GST" name="testMultiply" finished-at="2024-11-16T18:05:42 GST" duration-ms="8612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultiply -->
+        <test-method is-config="true" signature="resetApp()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:43 GST" name="resetApp" finished-at="2024-11-16T18:05:43 GST" duration-ms="700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetApp -->
+        <test-method is-config="true" signature="launchAPP()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:43 GST" name="launchAPP" finished-at="2024-11-16T18:05:43 GST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchAPP -->
+        <test-method signature="testSubtraction()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:43 GST" name="testSubtraction" finished-at="2024-11-16T18:05:51 GST" duration-ms="7432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtraction -->
+        <test-method is-config="true" signature="resetApp()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:51 GST" name="resetApp" finished-at="2024-11-16T18:05:52 GST" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resetApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.verifyMathematicalOperations@397fbdb]" started-at="2024-11-16T18:05:52 GST" name="tearDown" finished-at="2024-11-16T18:05:53 GST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.verifyMathematicalOperations -->
+    </test> <!-- Calculator Test -->
+  </suite> <!-- Calculator Suite -->
+</testng-results>
